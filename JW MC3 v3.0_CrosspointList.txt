@@ -1,0 +1,18 @@
+Crosspoint listing for C:\Users\abonde\Documents\GitHub\IMS-Rack\JW MC3 v3.0.SMW
+
+Note:  Crosspoint symbols with EquipID or ControlID set to 0d are not routeable.
+
+Equipment Crosspoint Routing.                                                                       EquipID
+===========================================================================================================
+S-18.1 in macro S-3.5.9.3.1.1:S-3 (Module File C:\Program Files (x86)\Crestron\Cresdb\Modu          20
+les\AMFM (CEN-TRACK) Hardware Interface v2.0.cmc)                                                   
+S-29.2 in macro S-3.5.9.3.1.1:S-2 (Module File C:\Program Files (x86)\Crestron\Cresdb\Modu          21
+les\XM (CEN-TRACK) Hardware Interface v3.0.cmc)                                                     
+
+Control Crosspoint Routing.                                                                         ControlID
+=============================================================================================================
+S-6.2 in macro S-3.5.9.3.2.1.1 (Module File C:\Program Files (x86)\Crestron\Cresdb\Modules          208
+\AMFM (CEN-TRACK + C2N-TFM) Media Player UI v2.0.0.cmc)                                             
+S-1 in macro S-3.5.9.3.2.1.2 (Module File C:\Program Files (x86)\Crestron\Cresdb\Modules\S          218
+irius XM Media Player Interface v2.0.cmc)                                                           
+
